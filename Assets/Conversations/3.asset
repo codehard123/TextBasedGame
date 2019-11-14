@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db626c43a7b923c4e87a9668a0a382f2, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 4284e8a8dbb3ad14d811351f5c77700d, type: 2}
+  speakerRight: {fileID: 11400000, guid: 18d82215f554c2f41b22e55a66c36a38, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 18d82215f554c2f41b22e55a66c36a38, type: 2}
+    text: Thanx for offering food. I feel better now.
+  - character: {fileID: 11400000, guid: 4284e8a8dbb3ad14d811351f5c77700d, type: 2}
+    text: I hope it will get you going Dad. How far are we from the Lake?
+  - character: {fileID: 11400000, guid: 18d82215f554c2f41b22e55a66c36a38, type: 2}
+    text: Not Much I think! Just an hour journey in the desert and we will be good
+      to go.
+  - character: {fileID: 11400000, guid: 18d82215f554c2f41b22e55a66c36a38, type: 2}
+    text: How do you feel?
+  - character: {fileID: 11400000, guid: 4284e8a8dbb3ad14d811351f5c77700d, type: 2}
+    text: I feel...
